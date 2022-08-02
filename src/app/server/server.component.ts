@@ -23,4 +23,3 @@ export class ServerComponent implements OnInit {
     return this.serverStatus === 'online' ? 'green' : 'red';
   }
 }
-// test
